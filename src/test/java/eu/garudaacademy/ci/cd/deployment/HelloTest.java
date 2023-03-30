@@ -10,7 +10,7 @@ public class HelloTest {
 
     @Test
     public void testHelloService() {
-        assertEquals("Hello World", helloService.getHello());
+        assertEquals("Hello World2", helloService.getHello());
     }
 
 }
